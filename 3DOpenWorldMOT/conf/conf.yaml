@@ -54,3 +54,10 @@ detection_options:
   overlap: 5
   num_interior: 0
   precomp_dets: False
+
+graph_construction:
+  graph_construction: 'pos'
+  k: 32
+  r: 2
+  my_graph: True
+  graph: knn

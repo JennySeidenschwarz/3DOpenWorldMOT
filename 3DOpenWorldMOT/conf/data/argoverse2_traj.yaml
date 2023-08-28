@@ -1,6 +1,6 @@
 # @package data
 class_class: 'TrajectoryDataLoader'
-dataset_name: 'av2_traj'
+dataset_name: 'Argoverse2_traj'
 trajectory_dir: '/storage/user/seidensc/datasets/trajectories/trajectories/remove_non_drive_and_ground_comp_4_80_0.6_2000'
 data_dir: '../../../data/argoverse2'
 num_classes: 1
